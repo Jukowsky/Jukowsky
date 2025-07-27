@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Can Atılgan
 
-<!--
-**Jukowsky/Jukowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Lead Product Owner 
+📍 Based in Sweden  
+💼 Currently at [SESTEK](https://www.sestek.com/)  
+🔭 Passionate about AI, data-driven product development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/talatcanatilgan/)
+- 💻 [GitHub](https://github.com/Jukowsky)
+- 📧 Email: tcanatilgan@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jukowsky&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukowsky&layout=compact&theme=tokyonight)
+
