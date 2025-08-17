@@ -1,4 +1,4 @@
-# 👋Can Atılgan
+# Can Atılgan
 
 🎯 **Lead Product Owner 
 📍 Based in Sweden  
