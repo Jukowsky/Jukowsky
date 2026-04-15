@@ -1,6 +1,6 @@
 # Can Atılgan
 
-🎯 **Lead Product Owner 
+🎯 Lead Product Owner 
 📍 Based in Sweden  
 💼 Currently at [SESTEK](https://www.sestek.com/)  
 🔭 Passionate about AI, data-driven product development
