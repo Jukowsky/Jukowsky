@@ -20,7 +20,7 @@ in the open.
 
 ## Toolbox
 
-- **Integration & systems:** REST APIs, MQTT, OPC UA, Docker, Linux
+- **Integration & systems:** REST APIs, MQTT, OPC UA
 - **Data & AI:** Python, SQL, pandas, PyTorch, YOLO, OpenCV
 - **Delivery:** Technical specifications, acceptance criteria, Scrum (PSPO)
 
