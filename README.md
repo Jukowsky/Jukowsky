@@ -8,8 +8,6 @@ Applied AI at Luleå University of Technology.
 The repositories below are hands-on labs and projects where I go deeper on these problems
 in the open.
 
-## Selected work
-
 | Project | What it shows |
 |---|---|
 | [edge-to-cloud-lab](https://github.com/Jukowsky/edge-to-cloud-lab) | OPC UA to MQTT edge gateway with disk-backed store-and-forward, failure drills and recovery, Docker Compose |
